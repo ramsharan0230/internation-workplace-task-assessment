@@ -62,3 +62,9 @@ php artisan migrate --seed
 
 # Start the dev server
 npm run dev
+
+
+
+## UI Preview
+
+![UI Preview](docs/ui-preview.png)
