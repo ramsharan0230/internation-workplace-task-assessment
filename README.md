@@ -65,6 +65,6 @@ npm run dev
 
 
 
-## UI Preview
+## 📸 Project Preview
 
-![UI Preview](docs/ui-preview.png)
+![Project Preview](docs/project-image-file.png)
