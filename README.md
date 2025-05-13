@@ -38,14 +38,11 @@ A Laravel + React + Inertia.js based user management system with pagination, sor
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/internation-workplace-task-assessment.git
+git clone https://github.com/ramsharan0230/internation-workplace-task-assessment.git
 cd internation-workplace-task-assessment
 
 # Build and start containers
 docker-compose up --build
-
-# Stop containers
-docker-compose down
 
 # Install backend dependencies
 composer install
@@ -67,4 +64,4 @@ npm run dev
 
 ## 📸 Project Preview
 
-![Project Preview](docs/project-image-file.png)
+https://github.com/ramsharan0230/internation-workplace-task-assessment/blob/master/docs/project-image-file.png
